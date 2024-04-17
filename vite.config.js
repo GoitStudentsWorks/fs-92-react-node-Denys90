@@ -17,5 +17,5 @@ export default defineConfig({
       context: '/src/context',
     },
   },
-  base: '/tracker-of-water-frontend/',
+  base: '/fs-92-react-node-Denys90/',
 });
